@@ -1,3 +1,3 @@
 # hello-world
 
-I am Ben Kitchen, a 3rd year computer science student at Murray State.
+I am Ben Kitchen, a 3rd year computer science student at Murray State, who fuckin' loves beans. 
